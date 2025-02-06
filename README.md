@@ -1,2 +1,2 @@
 # LayaSam
-Basic repo, contributing in each others projects, thats all.
+Basic repo, co-authoring into projects.

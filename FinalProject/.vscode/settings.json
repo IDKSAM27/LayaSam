@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 500,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:FinalProject}/drowsiness_data.db",
+            "name": "Drowsiness_data",
+            "group": "drowsiness"
+        }
+    ]
+}
